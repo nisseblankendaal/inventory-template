@@ -1,0 +1,7 @@
+---
+ansible_host: 3.1.1.10
+host_title: DEV member server 1
+host_alias: dev01
+func: Generic DEV Redhat server
+loc: Amsterdam DEV
+vmname: VM123457

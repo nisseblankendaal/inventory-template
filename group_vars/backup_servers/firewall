@@ -1,0 +1,4 @@
+---
+# variables used for custom firewall rules on host
+custom_firewalld_services:
+  - https

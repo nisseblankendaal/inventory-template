@@ -1,0 +1,3 @@
+---
+backup_server: prdbackupserver1
+backup_dir: /data/backup/

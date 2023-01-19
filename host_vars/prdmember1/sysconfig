@@ -1,0 +1,7 @@
+---
+ansible_host: 1.1.1.10
+host_title: PRD member server 1
+host_alias: prd01
+func: Generic PRD Redhat server
+loc: Amsterdam PRD
+vmname: VM123453

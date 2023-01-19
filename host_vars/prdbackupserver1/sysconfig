@@ -1,0 +1,7 @@
+---
+ansible_host: 1.1.1.5
+host_title: PRD backup server 1
+host_alias: backup01
+func: Generic PRD backup server
+loc: Amsterdam PRD
+vmname: VM123452
